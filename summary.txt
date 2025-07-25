@@ -1,0 +1,10 @@
+Summary of Python Operators:
+
+1. Arithmetic Operators: +, -, *, /, %, //, **
+2. Assignment Operators: =, +=, -=, *=, /=, etc.
+3. Comparison Operators: ==, !=, >, <, >=, <=
+4. Logical Operators: and, or, not
+5. Identity Operators: is, is not
+6. Membership Operators: in, not in
+
+Use these operators to perform basic and advanced operations in Python.
