@@ -1,0 +1,20 @@
+Summary: Control Statements in Python
+
+1. Conditional Statements:
+   - if, if-else, if-elif-else for decision-making
+   - Syntax:
+       if condition:
+           # do something
+       elif condition:
+           # do something else
+       else:
+           # fallback
+
+2. Loop Statements:
+   - for and while loops
+   - Keywords:
+       - break: exit the loop
+       - continue: skip to next iteration
+       - pass: does nothing (used as placeholder)
+
+3. Good for flow control, logic branching, iteration.

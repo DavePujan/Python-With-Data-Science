@@ -1,0 +1,10 @@
+Types of Loops in Python:
+
+1. for loop — Used to iterate over a sequence.
+2. while loop — Repeats while a condition is True.
+3. Nested loop — A loop inside another loop.
+4. Infinite loop — A loop that never ends (until break).
+5. Special keywords:
+   - break: exit loop early
+   - continue: skip current iteration
+   - pass: do nothing (placeholder)
