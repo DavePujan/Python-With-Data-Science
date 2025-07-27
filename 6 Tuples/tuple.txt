@@ -1,0 +1,7 @@
+Tuple Notes:
+
+- Tuple is an immutable sequence.
+- Created using ( ) or tuple().
+- Supports indexing, slicing, and iteration.
+- Cannot modify (add/remove) elements after creation.
+- Faster and memory-efficient compared to lists.
