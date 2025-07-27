@@ -1,0 +1,7 @@
+# List def and its characteristics
+# A list is a collection of items that can be of different types.
+# Lists are ordered, changeable, and allow duplicate elements.
+# Lists are defined using square brackets [].
+# any type of data can be stored in a list, including numbers, strings, and even other lists.
+
+
