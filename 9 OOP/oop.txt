@@ -1,0 +1,11 @@
+Object Oriented Programming (OOP) in Python has four pillars:
+1. Encapsulation
+2. Inheritance
+3. Abstraction
+4. Polymorphism
+
+Extra Topics:
+- Constructor (__init__)
+- Operator Overloading
+- Class with Parameters
+- Context Manager (with statement)
