@@ -1,0 +1,51 @@
+------------------------------
+PYTHON EXCEPTION HANDLING
+------------------------------
+
+⚙️ What is Exception?
+An exception is an event that disrupts the normal flow of the program during runtime.
+
+🧱 Try-Except Structure:
+------------------------
+try:
+    # Code that might raise an error
+except ExceptionType:
+    # Code to handle the error
+
+🌟 Common Exception Types:
+--------------------------
+- ZeroDivisionError
+- ValueError
+- TypeError
+- IndexError
+- KeyError
+- FileNotFoundError
+- ImportError
+- AttributeError
+
+🧲 Optional Clauses:
+--------------------
+1. else: Runs if no exception occurred.
+2. finally: Always runs, regardless of exception.
+
+🔨 Raising Custom Exceptions:
+----------------------------
+raise Exception("your message")
+raise ValueError("Invalid age")
+
+✍️ Custom User-defined Exception:
+---------------------------------
+class MyError(Exception):
+    pass
+
+try:
+    raise MyError("Something went wrong!")
+except MyError as e:
+    print(e)
+
+🧠 Best Practices:
+------------------
+- Be specific with `except`
+- Avoid bare `except:`
+- Clean up using `finally`
+- Log exceptions for debugging
