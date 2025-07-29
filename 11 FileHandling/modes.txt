@@ -1,0 +1,6 @@
+'r'  : read-only (must exist)
+'w'  : write-only (overwrites)
+'a'  : append to end
+'x'  : create if not exists
+'b'  : binary mode
+'r+', 'w+', 'a+' : read+write
